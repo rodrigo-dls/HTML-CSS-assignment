@@ -110,6 +110,11 @@ h1, h2, h3, .nav-links a {
     margin-bottom: 50px;
 }
 
+.products-hero h2 {
+    visibility: hidden;
+    line-height: 0;
+}
+
 .products-hero-img {
     width: 100%;
 }
